@@ -1,0 +1,12 @@
+.idea/
+.vagrant/
+.vscode/
+.exe/
+.mypy_cache/
+__pycache__/
+reports/
+
+*.py[cod]
+synchronization.code-workspace
+*.log
+*.xml

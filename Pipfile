@@ -1,0 +1,19 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+allure-python-commons = "==2.6.5"
+allure-pytest = "==2.6.5"
+pytest = "==4.5.0"
+requests = "==2.22.0"
+transliterate = ">=1.10.2"
+urllib3 = "==1.25.2"
+requests_ntlm = ">=1.1.0"
+sqlalchemy = "*"
+
+[requires]
+python_version = "3.7"
